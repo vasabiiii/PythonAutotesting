@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="690bfb6f-4473-42e9-9c05-8f834be84f6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/autotestingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/report_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/selenium_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/login_phone_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/login_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/login_wrong_email_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/login_wrong_password_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/login_wrong_phone_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/screenshots/registration_phone_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_15-18-24.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_15-20-10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_15-52-54.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_15-55-15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_15-59-57.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/test_report_2024-12-18_16-01-59.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/auth_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/blog_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/custom_games_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/main_page_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tournaments_tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2p1PM2BmnO5VuB21gW03FOFZt7D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for auth_test.test_registration_wrong_email.executor": "Run",
+    "Python tests.pytest for auth_tests.test_login_email_success.executor": "Debug",
+    "Python tests.pytest for auth_tests.test_login_phone_success.executor": "Run",
+    "Python tests.pytest for auth_tests.test_login_success.executor": "Run",
+    "Python tests.pytest for auth_tests.test_login_wrong_email.executor": "Run",
+    "Python tests.pytest for auth_tests.test_login_wrong_password.executor": "Run",
+    "Python tests.pytest for auth_tests.test_login_wrong_phone.executor": "Run",
+    "Python tests.pytest for auth_tests.test_registration_phone.executor": "Run",
+    "Python tests.pytest for blog_tests.test_blog_filter.executor": "Run",
+    "Python tests.pytest for blog_tests.test_click_randmon_block.executor": "Run",
+    "Python tests.pytest for custom_games_tests.test_create_stream.executor": "Run",
+    "Python tests.pytest for custom_games_tests.test_end_stream.executor": "Run",
+    "Python tests.pytest for custom_games_tests.test_show_stream.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_create_team.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_blog.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_custom_games.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_helpdesc.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_media.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_rating.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_header_tournaments.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_registration.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_show_all_tournaments.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_show_rand_blog.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_show_rand_tournament.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_support_discord.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_support_telegram.executor": "Run",
+    "Python tests.pytest for main_page_test.test_click_win_buttom.executor": "Run",
+    "Python tests.pytest for main_page_tests.test_click_header_tournaments.executor": "Run",
+    "Python tests.pytest for main_page_tests.test_click_show_rand_blog.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_bracket_tournament.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_chat_tournament.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_pubg_filter.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_rules_tournament.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_schedule_tournament.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_show_rand_tournament.executor": "Run",
+    "Python tests.pytest for tournaments_tests.test_click_teams_tournament.executor": "Run",
+    "Python tests.pytest in auth_tests.py.executor": "Run",
+    "Python.authTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Subversion.SSH",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abitd\PycharmProjects\autotestingProject\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for auth_tests.test_login_wrong_phone">
+    <configuration name="pytest for auth_tests.test_login_phone_success" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotestingProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auth_tests.test_login_phone_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auth_tests.test_login_wrong_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotestingProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auth_tests.test_login_wrong_email&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auth_tests.test_login_wrong_password" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotestingProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auth_tests.test_login_wrong_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auth_tests.test_login_wrong_phone" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotestingProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auth_tests.test_login_wrong_phone&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for auth_tests.test_registration_phone" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotestingProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;auth_tests.test_registration_phone&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for auth_tests.test_login_wrong_phone" />
+        <item itemvalue="Python tests.pytest for auth_tests.test_login_wrong_password" />
+        <item itemvalue="Python tests.pytest for auth_tests.test_login_wrong_email" />
+        <item itemvalue="Python tests.pytest for auth_tests.test_registration_phone" />
+        <item itemvalue="Python tests.pytest for auth_tests.test_login_phone_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\abitd\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690bfb6f-4473-42e9-9c05-8f834be84f6f" name="Changes" comment="" />
+      <created>1731930558348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731930558348</updated>
+      <workItem from="1731930559742" duration="5095000" />
+      <workItem from="1731951390739" duration="2587000" />
+      <workItem from="1731993674613" duration="8188000" />
+      <workItem from="1732048220044" duration="141000" />
+      <workItem from="1732048441166" duration="1832000" />
+      <workItem from="1732080121788" duration="5433000" />
+      <workItem from="1732236454338" duration="3652000" />
+      <workItem from="1732598186053" duration="7205000" />
+      <workItem from="1732687868032" duration="12386000" />
+      <workItem from="1732866385241" duration="8081000" />
+      <workItem from="1732911161962" duration="844000" />
+      <workItem from="1733116038428" duration="14615000" />
+      <workItem from="1733203464094" duration="4420000" />
+      <workItem from="1734023458182" duration="1466000" />
+      <workItem from="1734067285616" duration="19856000" />
+      <workItem from="1734278898779" duration="682000" />
+      <workItem from="1734443858851" duration="132000" />
+      <workItem from="1734444024704" duration="132000" />
+      <workItem from="1734448562151" duration="605000" />
+      <workItem from="1734514642965" duration="6471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_win_buttom.coverage" NAME="pytest for main_page_test.test_click_win_buttom Coverage Results" MODIFIED="1732689227441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_wrong_phone.coverage" NAME="pytest for auth_tests.test_login_wrong_phone Coverage Results" MODIFIED="1734519711816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_show_all_tournaments.coverage" NAME="pytest for main_page_test.test_click_show_all_tournaments Coverage Results" MODIFIED="1732689322361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_custom_games_tests_test_end_stream.coverage" NAME="pytest for custom_games_tests.test_end_stream Coverage Results" MODIFIED="1734094441413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_teams_tournament.coverage" NAME="pytest for tournaments_tests.test_click_teams_tournament Coverage Results" MODIFIED="1732879451211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_show_rand_tournament.coverage" NAME="pytest for main_page_test.test_click_show_rand_tournament Coverage Results" MODIFIED="1732704654075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_pubg_filter.coverage" NAME="pytest for tournaments_tests.test_click_pubg_filter Coverage Results" MODIFIED="1732875727357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_support_telegram.coverage" NAME="pytest for main_page_test.test_click_support_telegram Coverage Results" MODIFIED="1732705788428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$authTest.coverage" NAME="authTest Coverage Results" MODIFIED="1732080163514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_tournaments.coverage" NAME="pytest for main_page_test.test_click_header_tournaments Coverage Results" MODIFIED="1732706826022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_create_team.coverage" NAME="pytest for main_page_test.test_click_create_team Coverage Results" MODIFIED="1732689133405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_email_success.coverage" NAME="pytest for auth_tests.test_login_email_success Coverage Results" MODIFIED="1734515815608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_schedule_tournament.coverage" NAME="pytest for tournaments_tests.test_click_schedule_tournament Coverage Results" MODIFIED="1732878798297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_bracket_tournament.coverage" NAME="pytest for tournaments_tests.test_click_bracket_tournament Coverage Results" MODIFIED="1732879346362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_show_rand_blog.coverage" NAME="pytest for main_page_test.test_click_show_rand_blog Coverage Results" MODIFIED="1732705061902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_wrong_email.coverage" NAME="pytest for auth_tests.test_login_wrong_email Coverage Results" MODIFIED="1734519310314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_custom_games.coverage" NAME="pytest for main_page_test.test_click_header_custom_games Coverage Results" MODIFIED="1732706884160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_wrong_password.coverage" NAME="pytest for auth_tests.test_login_wrong_password Coverage Results" MODIFIED="1734519591010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_blog_tests_test_blog_filter.coverage" NAME="pytest for blog_tests.test_blog_filter Coverage Results" MODIFIED="1733122549675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_blog_tests_test_click_randmon_block.coverage" NAME="pytest for blog_tests.test_click_randmon_block Coverage Results" MODIFIED="1733137714928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_media.coverage" NAME="pytest for main_page_test.test_click_header_media Coverage Results" MODIFIED="1732706981865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_in_auth_tests_py.coverage" NAME="pytest in auth_tests.py Coverage Results" MODIFIED="1734093601080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_show_rand_tournament.coverage" NAME="pytest for tournaments_tests.test_click_show_rand_tournament Coverage Results" MODIFIED="1732876401688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_custom_games_tests_test_show_stream.coverage" NAME="pytest for custom_games_tests.test_show_stream Coverage Results" MODIFIED="1734094415298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_helpdesc.coverage" NAME="pytest for main_page_test.test_click_header_helpdesc Coverage Results" MODIFIED="1732707030513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_blog.coverage" NAME="pytest for main_page_test.test_click_header_blog Coverage Results" MODIFIED="1732707073697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_tests_test_click_header_tournaments.coverage" NAME="pytest for main_page_tests.test_click_header_tournaments Coverage Results" MODIFIED="1734024072200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_success.coverage" NAME="pytest for auth_tests.test_login_success Coverage Results" MODIFIED="1734071237869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_registration.coverage" NAME="pytest for main_page_test.test_click_registration Coverage Results" MODIFIED="1732688506290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_tests_test_click_show_rand_blog.coverage" NAME="pytest for main_page_tests.test_click_show_rand_blog Coverage Results" MODIFIED="1734024092982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_custom_games_tests_test_create_stream.coverage" NAME="pytest for custom_games_tests.test_create_stream Coverage Results" MODIFIED="1734094386133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_test_test_registration_wrong_email.coverage" NAME="pytest for auth_test.test_registration_wrong_email Coverage Results" MODIFIED="1732613540794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_login_phone_success.coverage" NAME="pytest for auth_tests.test_login_phone_success Coverage Results" MODIFIED="1734516990256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_header_rating.coverage" NAME="pytest for main_page_test.test_click_header_rating Coverage Results" MODIFIED="1732707187708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_main_page_test_test_click_support_discord.coverage" NAME="pytest for main_page_test.test_click_support_discord Coverage Results" MODIFIED="1732705649676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_chat_tournament.coverage" NAME="pytest for tournaments_tests.test_click_chat_tournament Coverage Results" MODIFIED="1732879556111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_auth_tests_test_registration_phone.coverage" NAME="pytest for auth_tests.test_registration_phone Coverage Results" MODIFIED="1734517200435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/autotestingProject$pytest_for_tournaments_tests_test_click_rules_tournament.coverage" NAME="pytest for tournaments_tests.test_click_rules_tournament Coverage Results" MODIFIED="1732879299746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
